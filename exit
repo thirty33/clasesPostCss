@@ -1,0 +1,53 @@
+[33mcommit b6857d907b107ba8e5148a718abdf7a4734fcf99[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Thirty33 <joelsuarez.1101@gmail.com>
+Date:   Wed Jun 28 11:42:34 2017 -0500
+
+    aprendiendo a usar @custom-media de nextcss
+
+[33mcommit 721b5ca8a2f8749190d2125a9645efe9a018de86[m
+Author: Thirty33 <joelsuarez.1101@gmail.com>
+Date:   Wed Jun 28 11:03:15 2017 -0500
+
+    usando el metodo calc de nextcss
+
+[33mcommit 9b28f2dd380f6ff40ed6f81a83484b212e4927d3[m
+Author: Thirty33 <joelsuarez.1101@gmail.com>
+Date:   Wed Jun 28 10:58:37 2017 -0500
+
+    Usando custom properties con nextcss
+
+[33mcommit 1176bc1353c2c22f822c13c2d85b87aa155ce9c4[m
+Author: Thirty33 <joelsuarez.1101@gmail.com>
+Date:   Wed Jun 28 10:50:34 2017 -0500
+
+    Usando nested y cssnext
+
+[33mcommit db4bbb3c905597ec702dd222a63c718c185ae407[m
+Author: Thirty33 <joelsuarez.1101@gmail.com>
+Date:   Wed Jun 28 10:28:56 2017 -0500
+
+    Usando plugin autoprefixer
+
+[33mcommit 66f0e8fa8519bf8a4b97fac321510870dbaf22f3[m
+Author: Thirty33 <joelsuarez.1101@gmail.com>
+Date:   Tue Jun 27 22:49:47 2017 -0500
+
+    automatizando procesos con gulp
+
+[33mcommit 997a07acb6d399a9feaa71bd81269810ae227658[m
+Author: Thirty33 <joelsuarez.1101@gmail.com>
+Date:   Tue Jun 27 20:16:04 2017 -0500
+
+    creacion de carpetas para trabajar gulp
+
+[33mcommit 9b4e3e7c176f86e257fcd75694a0497c36f525c6[m
+Author: Thirty33 <joelsuarez.1101@gmail.com>
+Date:   Tue Jun 27 18:11:58 2017 -0500
+
+    modificando clases en index.html pasandola a nomenclatura BEM
+
+[33mcommit 8e47955b36c00f8ab6a3dd19d6810c9a48aa9ffe[m
+Author: Thirty33 <joelsuarez.1101@gmail.com>
+Date:   Tue Jun 27 16:39:36 2017 -0500
+
+    comienzo de clases de postcss, pasando codigo de invie a postcss

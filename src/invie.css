@@ -4,6 +4,10 @@
 	--bg-footer: #273b47;
 
 	--fontSize:18px;
+
+	--btn-gradient: #fe324e;
+	--btn-gradient-star: color(var(--btn-gradient) blackness(40%));
+	--btn-gradient-end: color(var(--btn-gradient) lightness(+10%) hue(5%));
 }
 
 /*Definiendo Custom media quieries*/
@@ -22,7 +26,7 @@
 	padding: 20px;
 	height: 500px;
 	
-	
+
 	
 
 	
@@ -41,7 +45,21 @@
 			font-size: calc(var(--fontSize)*3.5);
 			
 		}
+
+		&-btn {
+			border-radius:12px;
+			border:none;
+			color:var(--bg-body);
+			padding: 7px 12px;
+			cursor:pointer;
+			font-size: var(--fontSize);
+			text-decoration: none;
+			background: var(--btn-gradient);
+			background: linear-gradient(to left, var(--btn-gradient-star), var(--btn-gradient-end));
+		}
 	}
+
+
 
 
 }

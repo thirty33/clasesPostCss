@@ -9,6 +9,8 @@
 	height: 500px;
 
 
+
+
 }
 
 
@@ -29,6 +31,19 @@
 .InvieHero-copy-tittle {
 			font-size: 63px;
 			
+		}
+
+
+.InvieHero-copy-btn {
+			border-radius:12px;
+			border:none;
+			color:#fafafa;
+			padding: 7px 12px;
+			cursor:pointer;
+			font-size: 18px;
+			text-decoration: none;
+			background: #fe324e;
+			background: linear-gradient(to left, rgb(153, 51, 65), rgb(254, 115, 103));
 		}
 
 .InvieFooter {
