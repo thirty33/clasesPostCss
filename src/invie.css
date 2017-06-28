@@ -1,8 +1,14 @@
-body {
-	background: yellow;
-	
-}
+.InvieHero {
+	padding: 20px;
+	height: 500px;
+	background: peru;
 
-.claseTest {
-	display: flex;
+	&-header {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		
+	}
+
+
 }
