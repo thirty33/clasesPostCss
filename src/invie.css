@@ -39,6 +39,13 @@
 		
 	}
 
+	&-logo {
+		transition: all 0.3s ease-in;
+		&:hover {
+			filter: blur(1px);
+		}
+	}
+
 	&-copy {
 
 		&-tittle {
@@ -58,6 +65,8 @@
 			background: linear-gradient(to left, var(--btn-gradient-star), var(--btn-gradient-end));
 		}
 	}
+
+	
 
 
 
