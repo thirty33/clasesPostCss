@@ -2,6 +2,8 @@
 
 /*Custom para pantallas retina*/
 
+/*mixins*/
+
 
 .InvieHero {
 	background: url('../images/background.png') #466173;
@@ -51,7 +53,7 @@
 .InvieHero-copy-btn {
 			border-radius:12px;
 			border:none;
-			color:#fafafa;
+			color: #fafafa;
 			padding: 7px 12px;
 			cursor:pointer;
 			font-size: 18px;
@@ -63,3 +65,15 @@
 .InvieFooter {
 	background: #273b47;
 }
+
+.InvieFooter-form-btn {
+			border-radius:12px;
+			border:none;
+			color: #fafafa;
+			padding: 7px 12px;
+			cursor:pointer;
+			font-size: 18px;
+			text-decoration: none;
+			background: #fe324e;
+			background: linear-gradient(to left, rgb(153, 51, 65), rgb(254, 115, 103));
+		}
