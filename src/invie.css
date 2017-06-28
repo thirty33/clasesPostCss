@@ -6,10 +6,25 @@
 	--fontSize:18px;
 }
 
+/*Definiendo Custom media quieries*/
+
+@custom-media --mobile (max-width: 500px);
+@custom-media --tablet (max-width: 650px);
+@custom-media --desktop (max-width: 800px);
+
+/*Custom para pantallas retina*/
+
+@custom-media --retina (-webkit-min-device-pixel-ratio: 2);
+
+
 .InvieHero {
-	background: var(--bg-header);
+	background: url('../images/background.png') var(--bg-header);
 	padding: 20px;
 	height: 500px;
+	
+	
+	
+
 	
 
 	&-header {
